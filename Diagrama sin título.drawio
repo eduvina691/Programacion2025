@@ -65,29 +65,27 @@
         <mxCell id="uoKwmjNjYe1DL9RIp7Ky-3" value="&lt;br&gt;Ingresar altura&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uoKwmjNjYe1DL9RIp7Ky-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uoKwmjNjYe1DL9RIp7Ky-5" target="uoKwmjNjYe1DL9RIp7Ky-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uoKwmjNjYe1DL9RIp7Ky-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uoKwmjNjYe1DL9RIp7Ky-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="920" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uoKwmjNjYe1DL9RIp7Ky-5" value="&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mord text&quot;&gt;&lt;span class=&quot;mord&quot;&gt;Área&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mspace&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mfrac&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord text mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;Base&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mbin mtight&quot;&gt;×&lt;/span&gt;&lt;span class=&quot;mord text mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;Altura/2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mclose nulldelimiter&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uoKwmjNjYe1DL9RIp7Ky-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uoKwmjNjYe1DL9RIp7Ky-7" target="uoKwmjNjYe1DL9RIp7Ky-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uoKwmjNjYe1DL9RIp7Ky-7" value="Mostrar área" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="920" width="120" height="60" as="geometry" />
+        <mxCell id="uoKwmjNjYe1DL9RIp7Ky-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="uoKwmjNjYe1DL9RIp7Ky-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="950" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uoKwmjNjYe1DL9RIp7Ky-9" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="910" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-I12NdeDq5FawbkJGHoR-0" value="Ingresar base" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-I12NdeDq5FawbkJGHoR-1" value="Ingresar altura" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-I12NdeDq5FawbkJGHoR-2" value="Mostrar área" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sGSTIUw6JbGAI1DwxCH2-0" value="Ingresar base" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
