@@ -222,7 +222,7 @@
             <mxPoint x="-50" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QIAfXD-8DQwlvN6h7eWH-30" value="Número mayor es C y A es el menor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QIAfXD-8DQwlvN6h7eWH-30" value="El número mayor es C y A es el menor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QIAfXD-8DQwlvN6h7eWH-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QIAfXD-8DQwlvN6h7eWH-32">
@@ -236,7 +236,7 @@
         <mxCell id="QIAfXD-8DQwlvN6h7eWH-32" value="A mayor a C" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QIAfXD-8DQwlvN6h7eWH-36" value="El numero mayor es B y A es el menor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QIAfXD-8DQwlvN6h7eWH-36" value="El número mayor es B y A es el menor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QIAfXD-8DQwlvN6h7eWH-37" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -281,7 +281,7 @@
         <mxCell id="QIAfXD-8DQwlvN6h7eWH-46" value="A es el número mayor y C el menor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="615" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QIAfXD-8DQwlvN6h7eWH-48" value="El numero mayor es B y el menor es A" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QIAfXD-8DQwlvN6h7eWH-48" value="El número mayor es B y el menor es A" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="470" width="125" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="QIAfXD-8DQwlvN6h7eWH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.763;entryY=0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QIAfXD-8DQwlvN6h7eWH-36" target="QIAfXD-8DQwlvN6h7eWH-37">
